@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Horde Email Finder", "Horde Email Finder\Horde Email Finder.csproj", "{DCD1CB19-9342-4817-A534-56D3A11805C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCD1CB19-9342-4817-A534-56D3A11805C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD1CB19-9342-4817-A534-56D3A11805C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD1CB19-9342-4817-A534-56D3A11805C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD1CB19-9342-4817-A534-56D3A11805C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B4E60AE-7C99-4F0B-AA52-20270FE6938C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\NS\source\repos\Horde Email Finder\Horde Email Finder\bin\Debug\net5.0\Horde Email Finder.exe
+C:\Users\NS\source\repos\Horde Email Finder\Horde Email Finder\bin\Debug\net5.0\Horde Email Finder.deps.json
+C:\Users\NS\source\repos\Horde Email Finder\Horde Email Finder\bin\Debug\net5.0\Horde Email Finder.runtimeconfig.json
+C:\Users\NS\source\repos\Horde Email Finder\Horde Email Finder\bin\Debug\net5.0\Horde Email Finder.runtimeconfig.dev.json
+C:\Users\NS\source\repos\Horde Email Finder\Horde Email Finder\bin\Debug\net5.0\Horde Email Finder.dll
+C:\Users\NS\source\repos\Horde Email Finder\Horde Email Finder\bin\Debug\net5.0\ref\Horde Email Finder.dll
+C:\Users\NS\source\repos\Horde Email Finder\Horde Email Finder\bin\Debug\net5.0\Horde Email Finder.pdb
+C:\Users\NS\source\repos\Horde Email Finder\Horde Email Finder\obj\Debug\net5.0\Horde Email Finder.csprojAssemblyReference.cache
+C:\Users\NS\source\repos\Horde Email Finder\Horde Email Finder\obj\Debug\net5.0\Horde Email Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NS\source\repos\Horde Email Finder\Horde Email Finder\obj\Debug\net5.0\Horde Email Finder.AssemblyInfoInputs.cache
+C:\Users\NS\source\repos\Horde Email Finder\Horde Email Finder\obj\Debug\net5.0\Horde Email Finder.AssemblyInfo.cs
+C:\Users\NS\source\repos\Horde Email Finder\Horde Email Finder\obj\Debug\net5.0\Horde Email Finder.csproj.CoreCompileInputs.cache
+C:\Users\NS\source\repos\Horde Email Finder\Horde Email Finder\obj\Debug\net5.0\Horde Email Finder.dll
+C:\Users\NS\source\repos\Horde Email Finder\Horde Email Finder\obj\Debug\net5.0\ref\Horde Email Finder.dll
+C:\Users\NS\source\repos\Horde Email Finder\Horde Email Finder\obj\Debug\net5.0\Horde Email Finder.pdb
+C:\Users\NS\source\repos\Horde Email Finder\Horde Email Finder\obj\Debug\net5.0\Horde Email Finder.genruntimeconfig.cache

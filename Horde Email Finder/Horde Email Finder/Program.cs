@@ -6,7 +6,6 @@ namespace Horde_Email_Finder
     {
         static void Main(string[] args)
         {
-            int counter = 0;
             string line;
 
             // Read the file and display it line by line.  
@@ -21,7 +20,6 @@ namespace Horde_Email_Finder
                     sEmail = sEmail.Replace("mailto:", "");
                     sw.WriteLine(sEmail);
                     System.Console.WriteLine(sEmail);
-                    counter++;
                 }
             }
             sw.Close();
